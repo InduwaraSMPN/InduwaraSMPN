@@ -1,16 +1,71 @@
-## Hi there 👋
+## Hi, I'm Pasindu Induwara 👋
 
-<!--
-**InduwaraSMPN/InduwaraSMPN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a motivated and dynamic IT undergraduate at the **[University of Kelaniya](https://kln.ac.lk/)** (B.Sc. Honours in Information Technology) with a strong passion for web development and a keen interest in UX/UI engineering. I enjoy designing and developing full-stack web applications, translating user needs into functional, visually engaging interfaces.
 
-Here are some ideas to get you started:
+I recently completed a **Trainee Full Stack Developer** program at the **[University of Moratuwa's Centre for Open & Distance Learning](https://codl.mrt.ac.lk/)**, gaining hands-on experience in Python, web design, server-side development, and professional best practices.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔗 **Connect with me:**
+- **LinkedIn:** [linkedin.com/in/induwarasmpn](https://linkedin.com/in/induwarasmpn)
+- **Email:** pasindunaduninduwara@gmail.com
+
+---
+
+### ✨ Project Highlights ✨
+
+Here are some of the projects I've been working on:
+
+*   🚀 **Guidia - Full-Stack Career Guidance Platform** (Individual Project)
+    *   Digitizing the University of Kelaniya's career guidance, connecting students, counselors, and employers.
+    *   Features: Secure role-based authentication (JWT, bcrypt), email OTP, profile management (Azure Blob Storage), job board, appointment scheduling, real-time messaging.
+    *   *Tech Stack:* React (TypeScript, Vite, Tailwind CSS), Node.js (Express, TypeScript), MySQL, Axios, Sentry.
+
+*   🧠 **Personalized Ad-Copy Generation – AI/NLP Project** (Group Project)
+    *   AI system to generate personalized ad copy using user profiles and product data.
+    *   Utilized a RAG approach with FAISS for similarity search, T5 for text generation, and Sentence Transformers.
+    *   *Tech Stack:* Python, PyTorch, Transformers, spaCy, Pandas, Faker.
+
+*   🔗 **Multi-Link Sharing Platform (“Linky”)** (Group Project)
+    *   Cloud-native platform for personalized landing pages with multiple external links.
+    *   Deployed on Azure using Kubernetes for scalability and Docker for containerization.
+    *   *Tech Stack:* React, Node.js, Docker, Kubernetes, Azure, MongoDB Atlas.
+
+*   📈 **Employee Management Web Application** (Group Project)
+    *   Spring Boot-based web app for managing employee data via RESTful APIs.
+    *   Features: CRUD operations, search, input validation, security (SQL injection/XSS), caching. Deployed on Azure.
+    *   *Tech Stack:* Java, Spring Boot, RESTful APIs, Azure.
+
+<details>
+  <summary>📜 More Projects & Achievements</summary>
+
+  ### Other Notable Projects
+  *   🧑‍💻 **Employee Management System** (Individual Project): Java Servlets, JSP, XML system for employee records. UI with Bootstrap & jQuery, deployed on Apache Tomcat.
+  *   🍲 **Hela Rasa Recipe Android Mobile Application** (Group Project): Android app for managing and sharing recipes with multimedia support and social sharing. UI/UX design, Firebase for cloud storage.
+  *   📱 **Calky - Cross-Platform Calculator Mobile Application** (Individual Project): Flutter app for Android/iOS with core arithmetic, input validation, and error handling.
+  *   🎮 **Zombie Jumper – 2D Platformer Game** (Group Project): 2D game using C++ and SFML with player movement, collision detection, scoring, and menus.
+  *   🩸 **BLOOD DONATION Management System (“BLOOD LINK”)** (Group Project): Java-MySQL system for managing donor registrations, inventory, and donation tracking.
+
+  ### 🏆 Achievements
+  *   🥈 **First Runners-Up:** J'PURA EXPO 2023, Inter University Export-Oriented Innovation Competition.
+  *   🌟 **Semi-Finalist:** Ceylon Treasure project in the VentureVerse Startup Challenge (Sabaragamuwa University).
+
+</details>
+
+---
+
+### 💻 Technologies & Tools I Enjoy Working With:
+
+*   **Frontend:** React (TypeScript, Vite), HTML, CSS, JavaScript, Tailwind CSS, Flutter
+*   **Backend:** Node.js (Express), Python, Java (Spring Boot), SQL (MySQL)
+*   **Databases:** MySQL, MongoDB Atlas
+*   **AI/NLP:** PyTorch, Transformers, spaCy, FAISS, Sentence Transformers, Pandas
+*   **DevOps & Cloud:** Docker, Kubernetes, Azure, Firebase, Git
+*   **Other Tools:** Sentry, Axios, Maven, Apache Tomcat
+
+---
+
+### 🌱 I'm Currently Focusing On:
+*   Deepening my understanding of full-stack development best practices.
+*   Exploring advanced concepts in UX/UI design and cloud-native architectures.
+*   Contributing to impactful open-source projects.
+
+Thanks for stopping by! Feel free to explore my repositories.
