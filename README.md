@@ -14,7 +14,7 @@ I recently completed a **Trainee Full Stack Developer** program at the **[Univer
 
 Here are some of the projects I've been working on:
 
-*   🚀 **Guidia - Full-Stack Career Guidance Platform** (Individual Project)
+*   🚀 **[Guidia - Full-Stack Career Guidance Platform](https://github.com/InduwaraSMPN/guidia-web)** (Individual Project)
     *   Digitizing the University of Kelaniya's career guidance, connecting students, counselors, and employers.
     *   Features: Secure role-based authentication (JWT, bcrypt), email OTP, profile management (Azure Blob Storage), job board, appointment scheduling, real-time messaging.
     *   *Tech Stack:* React (TypeScript, Vite, Tailwind CSS), Node.js (Express, TypeScript), MySQL, Axios, Sentry.
