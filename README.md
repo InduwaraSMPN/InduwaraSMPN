@@ -7,7 +7,6 @@ I recently completed a **Trainee Full Stack Developer** program at the **[Univer
 🔗 **Connect with me:**
 - **LinkedIn:** [linkedin.com/in/induwarasmpn](https://linkedin.com/in/induwarasmpn)
 - **Email:** pasindunaduninduwara@gmail.com
-
 ---
 
 ### ✨ Project Highlights ✨
@@ -24,25 +23,30 @@ Here are some of the projects I've been working on:
     *   Features separate interfaces for each user role and a mobile app for station operators.
     *   *Tech Stack:* Backend: Java Spring Boot (JWT, JPA), PostgreSQL. Frontend: 3 Next.js apps. Mobile: Expo/React Native.
 
-*   🧠 **Personalized Ad-Copy Generation – AI/NLP Project** (Group Project)
-    *   AI system to generate personalized ad copy using user profiles and product data.
-    *   Utilized a RAG approach with FAISS for similarity search, T5 for text generation, and Sentence Transformers.
-    *   *Tech Stack:* Python, PyTorch, Transformers, spaCy, Pandas, Faker.
-
-*   🔗 **Multi-Link Sharing Platform (“Linky”)** (Group Project)
-    *   Cloud-native platform for personalized landing pages with multiple external links.
-    *   Deployed on Azure using Kubernetes for scalability and Docker for containerization.
-    *   *Tech Stack:* React, Node.js, Docker, Kubernetes, Azure, MongoDB Atlas.
-
-*   📈 **Employee Management Web Application** (Group Project)
-    *   Spring Boot-based web app for managing employee data via RESTful APIs.
-    *   Features: CRUD operations, search, input validation, security (SQL injection/XSS), caching. Deployed on Azure.
-    *   *Tech Stack:* Java, Spring Boot, RESTful APIs, Azure.
+*   🌐 **[My Personal Portfolio Website](https://github.com/InduwaraSMPN/pasindunaduninduwara.me)** (In Development)
+    *   Developing my personal online presence to showcase my projects, skills, and journey.
+    *   Built with a focus on modern web standards and user experience.
+    *   *Tech Stack:* Next.js, Vercel.
 
 <details>
   <summary>📜 More Projects & Achievements</summary>
 
   ### Other Notable Projects
+  *   🧠 **Personalized Ad-Copy Generation – AI/NLP Project** (Group Project)
+      *   AI system to generate personalized ad copy using user profiles and product data.
+      *   Utilized a RAG approach with FAISS for similarity search, T5 for text generation, and Sentence Transformers.
+      *   *Tech Stack:* Python, PyTorch, Transformers, spaCy, Pandas, Faker.
+
+  *   🔗 **Multi-Link Sharing Platform (“Linky”)** (Group Project)
+      *   Cloud-native platform for personalized landing pages with multiple external links.
+      *   Deployed on Azure using Kubernetes for scalability and Docker for containerization.
+      *   *Tech Stack:* React, Node.js, Docker, Kubernetes, Azure, MongoDB Atlas.
+
+  *   📈 **Employee Management Web Application** (Group Project)
+      *   Spring Boot-based web app for managing employee data via RESTful APIs.
+      *   Features: CRUD operations, search, input validation, security (SQL injection/XSS), caching. Deployed on Azure.
+      *   *Tech Stack:* Java, Spring Boot, RESTful APIs, Azure.
+
   *   🧑‍💻 **Employee Management System** (Individual Project): Java Servlets, JSP, XML system for employee records. UI with Bootstrap & jQuery, deployed on Apache Tomcat.
   *   🍲 **Hela Rasa Recipe Android Mobile Application** (Group Project): Android app for managing and sharing recipes with multimedia support and social sharing. UI/UX design, Firebase for cloud storage.
   *   📱 **Calky - Cross-Platform Calculator Mobile Application** (Individual Project): Flutter app for Android/iOS with core arithmetic, input validation, and error handling.
@@ -64,14 +68,15 @@ Here are some of the projects I've been working on:
 *   **Databases:** MySQL, PostgreSQL, MongoDB Atlas
 *   **AI/NLP:** PyTorch, Transformers, spaCy, FAISS, Sentence Transformers, Pandas
 *   **Mobile:** Expo/React Native
-*   **DevOps & Cloud:** Docker, Kubernetes, Azure, Firebase, Git
+*   **DevOps & Cloud:** Docker, Kubernetes, Azure, Firebase, Git, Vercel
 *   **Other Tools:** Sentry, Axios, Maven, Apache Tomcat, Twilio
 
 ---
 
 ### 🌱 I'm Currently Focusing On:
+*   Building out my personal portfolio with Next.js and modern UI/UX principles.
 *   Deepening my understanding of full-stack development best practices and microservices architecture.
-*   Exploring advanced concepts in UX/UI design and cloud-native architectures.
+*   Exploring advanced concepts in cloud-native architectures.
 *   Contributing to impactful open-source projects.
 
 Thanks for stopping by! Feel free to explore my repositories.
