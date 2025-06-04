@@ -19,6 +19,11 @@ Here are some of the projects I've been working on:
     *   Features: Secure role-based authentication (JWT, bcrypt), email OTP, profile management (Azure Blob Storage), job board, appointment scheduling, real-time messaging.
     *   *Tech Stack:* React (TypeScript, Vite, Tailwind CSS), Node.js (Express, TypeScript), MySQL, Axios, Sentry.
 
+*   ⛽ **[Quota.app - Fuel Quota Management System](https://github.com/InduwaraSMPN/quota.app)** (Group Project)
+    *   A comprehensive fuel quota management system connecting vehicle owners, fuel station owners, and administrators.
+    *   Features separate interfaces for each user role and a mobile app for station operators.
+    *   *Tech Stack:* Backend: Java Spring Boot (JWT, JPA), PostgreSQL. Frontend: 3 Next.js apps. Mobile: Expo/React Native.
+
 *   🧠 **Personalized Ad-Copy Generation – AI/NLP Project** (Group Project)
     *   AI system to generate personalized ad copy using user profiles and product data.
     *   Utilized a RAG approach with FAISS for similarity search, T5 for text generation, and Sentence Transformers.
@@ -54,17 +59,18 @@ Here are some of the projects I've been working on:
 
 ### 💻 Technologies & Tools I Enjoy Working With:
 
-*   **Frontend:** React (TypeScript, Vite), HTML, CSS, JavaScript, Tailwind CSS, Flutter
-*   **Backend:** Node.js (Express), Python, Java (Spring Boot), SQL (MySQL)
-*   **Databases:** MySQL, MongoDB Atlas
+*   **Frontend:** React (TypeScript, Vite), Next.js, HTML, CSS, JavaScript, Tailwind CSS, Flutter
+*   **Backend:** Node.js (Express), Python, Java (Spring Boot, JPA), SQL (MySQL, PostgreSQL)
+*   **Databases:** MySQL, PostgreSQL, MongoDB Atlas
 *   **AI/NLP:** PyTorch, Transformers, spaCy, FAISS, Sentence Transformers, Pandas
+*   **Mobile:** Expo/React Native
 *   **DevOps & Cloud:** Docker, Kubernetes, Azure, Firebase, Git
-*   **Other Tools:** Sentry, Axios, Maven, Apache Tomcat
+*   **Other Tools:** Sentry, Axios, Maven, Apache Tomcat, Twilio
 
 ---
 
 ### 🌱 I'm Currently Focusing On:
-*   Deepening my understanding of full-stack development best practices.
+*   Deepening my understanding of full-stack development best practices and microservices architecture.
 *   Exploring advanced concepts in UX/UI design and cloud-native architectures.
 *   Contributing to impactful open-source projects.
 
