@@ -24,9 +24,9 @@ Here are some of the projects I've been working on:
     *   *Tech Stack:* Backend: Java Spring Boot (JWT, JPA), PostgreSQL. Frontend: 3 Next.js apps. Mobile: Expo/React Native.
 
 *   🌐 **[My Personal Portfolio Website](https://github.com/InduwaraSMPN/pasindunaduninduwara.me)** (In Development)
-    *   Developing my personal online presence to showcase my projects, skills, and journey.
-    *   Built with a focus on modern web standards and user experience.
-    *   *Tech Stack:* Next.js, Vercel.
+    *   My personal online presence showcasing projects, skills, and journey as a developer.
+    *   Features Next.js 15 (App Router), Supabase (projects, blog, storage), React Query for data fetching, Shadcn UI, theme switching with `next-themes`, and a custom Bun server with hot reload.
+    *   *Tech Stack:* Next.js 15, TypeScript, Tailwind CSS, Supabase, React Query, Shadcn UI, Bun.
 
 <details>
   <summary>📜 More Projects & Achievements</summary>
@@ -63,18 +63,18 @@ Here are some of the projects I've been working on:
 
 ### 💻 Technologies & Tools I Enjoy Working With:
 
-*   **Frontend:** React (TypeScript, Vite), Next.js, HTML, CSS, JavaScript, Tailwind CSS, Flutter
-*   **Backend:** Node.js (Express), Python, Java (Spring Boot, JPA), SQL (MySQL, PostgreSQL)
-*   **Databases:** MySQL, PostgreSQL, MongoDB Atlas
+*   **Frontend:** React (TypeScript, Vite), Next.js (App Router), HTML, CSS, JavaScript, Tailwind CSS, Shadcn UI, Flutter
+*   **Backend:** Node.js (Express), Python, Java (Spring Boot, JPA), SQL (MySQL, PostgreSQL), Bun
+*   **Databases:** MySQL, PostgreSQL, MongoDB Atlas, Supabase
 *   **AI/NLP:** PyTorch, Transformers, spaCy, FAISS, Sentence Transformers, Pandas
 *   **Mobile:** Expo/React Native
 *   **DevOps & Cloud:** Docker, Kubernetes, Azure, Firebase, Git, Vercel
-*   **Other Tools:** Sentry, Axios, Maven, Apache Tomcat, Twilio
+*   **Other Tools:** Sentry, Axios, Maven, Apache Tomcat, Twilio, React Query, `next-themes`
 
 ---
 
 ### 🌱 I'm Currently Focusing On:
-*   Building out my personal portfolio with Next.js and modern UI/UX principles.
+*   Building out my personal portfolio with Next.js, Supabase, and modern UI/UX principles (including Geist font).
 *   Deepening my understanding of full-stack development best practices and microservices architecture.
 *   Exploring advanced concepts in cloud-native architectures.
 *   Contributing to impactful open-source projects.
