@@ -1,6 +1,6 @@
 ## Hi, I'm Pasindu Induwara 👋
 
-I'm a motivated and dynamic IT undergraduate at the **[University of Kelaniya](https://kln.ac.lk/)** (B.Sc. Honours in Information Technology) with a strong passion for web development and a keen interest in UX/UI engineering. I enjoy designing and developing full-stack web applications, translating user needs into functional, visually engaging interfaces.
+I'm an IT undergraduate at the **[University of Kelaniya](https://kln.ac.lk/)** (B.Sc. Honours in Information Technology) with a strong passion for web development and a keen interest in UX/UI engineering. I enjoy designing and developing full-stack web applications, translating user needs into functional, visually engaging interfaces.
 
 I recently completed a **Trainee Full Stack Developer** program at the **[University of Moratuwa's Centre for Open & Distance Learning](https://codl.mrt.ac.lk/)**, gaining hands-on experience in Python, web design, server-side development, and professional best practices.
 
